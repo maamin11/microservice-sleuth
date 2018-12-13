@@ -1,0 +1,4 @@
+com\fuzamei\service\andy\ServiceAndyApplication.class
+com\fuzamei\service\andy\controller\SayHelloController.class
+com\fuzamei\service\andy\service\ISayHelloService.class
+com\fuzamei\service\andy\error\HiError.class

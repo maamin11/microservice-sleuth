@@ -1,0 +1,4 @@
+com\fuzamei\service\hi\ServiceHiApplication.class
+com\fuzamei\service\hi\controller\SayHiController.class
+com\fuzamei\service\hi\error\Error.class
+com\fuzamei\service\hi\service\ISayHiService.class
